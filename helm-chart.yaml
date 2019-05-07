@@ -1,0 +1,12 @@
+name: demo
+home: https://onestash.verizon.com/projects/EIQVM/repos/customercontactsvc
+sources:
+- https://onestash.verizon.com/scm/eiqvm/customercontactsvc.git
+version: 1.0.0
+description: Optix Demo service with springboot, kubernetes and docker.
+keywords:
+- optix
+- demo
+maintainers:
+- name: Optix Checkout Team
+icon: /resources/img/springboot.png
